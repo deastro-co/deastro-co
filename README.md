@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/deastro-co/DeAstr0/blob/main/banner.png?raw=true" alt="deastro-co banner" />
+  <img src="https://github.com/deastro-co/deastro-co/blob/main/banner.png?raw=true" alt="deastro-co banner" />
 </p>
 
 # 👋 Hi there, I'm Ade Astrawijaya (a.k.a. deastro-co)!
