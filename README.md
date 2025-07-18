@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/deastro-co/DeAstr0/blob/main/banner.png?raw=true" alt="deastro-co banner" />
+</p>
+
 # 👋 Hi there, I'm Ade Astrawijaya (a.k.a. deastro-co)!
 
 🌱 I'm an Informatics student at Universitas Teknologi Yogyakarta, passionate about building impactful digital solutions for agriculture and rural communities. I'm currently working on smart farming apps, IoT systems, and village-based digital transformation to empower small-scale farmers and local businesses using technology.
